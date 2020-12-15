@@ -1,0 +1,155 @@
+
+.video-style {
+    position: relative;
+}
+#myVideo {
+    /* position: absolute; */
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+.dark-opacity {
+    background-color: black;
+    opacity: 0.4;
+    top: -7%;
+    width: 100%;
+    height: calc(100% + 65px);
+    position: absolute;
+
+}
+
+.title-cover {
+    margin-left: 6%;
+    top: 32%;
+    position: absolute;
+    color: white;
+}
+
+.title-cover  h1{
+    color: white;
+    opacity: none;
+    font-size: 4em ;
+    font-weight: bold;
+    margin-bottom: 2%;
+    border-color: black;
+    background-origin: padding-box;
+    color: aliceblue;
+    margin: 0;
+ 
+}
+
+.title-cover p {
+    color: aliceblue;
+    font-size: 1.9em;
+    font-weight: 2em;
+    padding-right: 10rem;
+    border-color: black;
+    width: 25em;
+    margin-bottom: 13px;
+    line-height: 1.3;
+}
+
+h1.h1color {
+    color:#0db14b;
+    margin-top: -18px;
+}
+
+@media only screen and (max-width: 1440px) { 
+    .dark-opacity{
+        top: -9%;
+        height: calc(100% + 62px);
+    }
+    .img-center {
+        margin-bottom: 5%;
+    }
+
+}
+
+@media only screen and (max-width: 1370px) { 
+    .dark-opacity{
+        height: calc(100% + 60px);
+    }
+
+}
+
+
+
+  @media only screen and (max-width: 1024px) {
+    .dark-opacity {
+        top: -13%;
+    }
+    .img-right {
+        width: 61%;
+    }
+  }
+
+@media only screen and (max-width: 900px) {
+    .dark-opacity {
+        top: -16%;
+    }
+    .title-cover {
+        top: 30%;
+    }
+    .title-cover h1 {
+        font-size: 30px;
+    }
+    h1.h1color {
+        margin-top: -6px;
+    }
+    .title-cover p {
+        font-size: 18px;
+        width: 29em;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .dark-opacity {
+        top: -18%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .dark-opacity {
+        display: none;
+    }
+
+    .title-cover {
+        top: 0;
+        margin: 0;
+    }
+   
+    h1.h1color {
+        color:#0db14b;
+        margin-top: 0;
+    }
+    
+    .btn-discover {
+        display: none;
+    }
+
+    .title-cover h1 {
+        padding-top: 15px;
+        text-align: center;
+        font-size: 18px !important;
+    }
+    h1.h1color {
+        padding-top: 0;
+    }
+    .title-cover p {
+        text-align: center;
+        color: aliceblue;
+        font-size: 16px;
+        font-weight: 2em;
+        padding-right: 0;
+        border-color: black;
+        width: auto;
+        margin-bottom: 0;
+        line-height: 1.3;
+    }
+
+    .Navbar-header img {
+        margin-top: -25%;
+    }
+  }

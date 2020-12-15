@@ -1,0 +1,20 @@
+[
+    {   
+        "index": "1",
+        "link": "https://www.linkedin.com/company/vitaminair/",
+        "desc": "vitamin air telegram  channel ",
+        "logo": "/image/footer/linkedin2.svg"
+    },
+    {   
+        "index": "2",
+        "link": "https://www.youtube.com/channel/UCL_dER70Hn-OncQ52BXQYLg",
+        "desc": "Vitamin Air Youtube Channel ",
+        "logo": "/image/footer/youtube.svg"
+    },
+    {   
+        "index": "3",
+        "link": "https://t.me/vitaminair",
+        "desc": "vitamin air",
+        "logo": "/image/footer/telegram.svg"
+    }
+]

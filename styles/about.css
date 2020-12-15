@@ -1,0 +1,186 @@
+.aboutTitle {
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-size: 26px;
+    align-items: center;
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.about-row {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.about-Txt {
+    padding: 5%;
+}
+
+.what {
+    /* padding-top: 10%; */
+    padding-bottom: auto;
+   
+}
+.mission {
+   
+}
+.vision {
+    
+    padding-right: 6%;
+}
+/* .about-Txt  .misson {
+    padding-right: 11%;
+} */
+
+.about-row h1 {
+    margin-bottom: 0;
+    font-size: 25px;
+    align-items: center;
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.about-row p {
+    padding-top: 17px;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    line-height: 1.57;
+}
+
+
+.img-about {
+    width: 100%;
+    margin: 0;
+    padding: 5%;
+}
+
+.title-objective {
+  padding: 0 3%;
+}
+
+.title-objective .subtitle-objective p{
+    text-align: center;
+    font-size: 22px;
+}
+
+
+
+
+  
+.background-team{
+    padding: 50px auto ;
+    height: 100%;
+    margin-bottom: 5%;
+    
+  }
+  
+.container-team {
+    margin: 0 auto;
+  }
+  
+.container-team h4 {
+    font-size: 20px;
+    padding-top: 5%;
+    font-weight: 700;
+    color: rgb(8, 8, 8);
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+
+  
+.member-team p{
+    font-size: 22px;
+    text-align: center;
+  }  
+  .title-objective p{
+    font-size: 22px;
+  }
+.logo-team img {
+    width: 65%;
+    margin: 5% 17%;
+}
+.social-media-team {
+    padding: 0;
+  }
+.social-media-team img {
+    padding: 2px;
+    height: 60px!important;
+    width: 60px!important;
+    margin: 3px;
+  }
+
+@media only screen and (max-width: 1440px) { 
+    .container {
+      width: 75%;
+     }
+    .aboutTitle {
+      font-size: 24px;
+    }
+   .what{
+      padding-top: 10%;
+   }
+   .about-row h1 {
+      font-size: 18px;
+   }
+   .about-row p {
+    font-size: 16px;
+   }
+   .title-objective p{
+     font-size: 16px;
+  }
+   
+   .container-team h4 {
+    font-size: 17px;
+  }
+}
+
+@media  screen and (max-width: 1024px ) {
+
+  .about-container{
+      width: 100%;
+  }
+  .mission {
+    
+  }
+
+}
+
+@media screen and (max-width: 900px){
+  .container-team h4 {
+    margin-bottom: 0;
+  }
+  .member-team {
+    padding-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 450px) { 
+  .about-container {
+    width: 90%;
+   }
+   .img-about {
+     width: 100%;
+
+   }
+   .member-team {
+    padding-left: 0;
+   }
+   .aboutTitle {
+    font-size: 18px;
+}
+   .about-Txt{
+      /* padding: 10% 0; */
+      text-align: center;
+   }
+   .what {
+    padding-right: 0;
+   }
+   .vision {
+    padding-right: 0;
+}
+.about-member{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+}

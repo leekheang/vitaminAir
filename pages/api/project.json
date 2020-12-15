@@ -1,0 +1,37 @@
+[
+    {   
+        "idx": "1",
+        "title": "REFORESTATION",
+        "desc": "Reforest and maintain at least 60% of Cambodian national forest cover. ",
+        "logo": "/image/project/va-reforestation.png",
+        "className" : "reforest"
+    },
+    {
+        "idx": "2",
+        "title": "NATURAL FARMING",
+        "desc": "Designing balanced ecosystems that produce rich soils and nutrient-dense foods while respecting the environment and animals. ",
+        "logo": "/image/project/va-natural-farming.png" ,
+        "className": "natural"
+      },
+    {
+        "idx": "3",
+        "title": "ECO-TOURISM",
+        "desc": "Bring everyone closer to nature, instilling love, healthy and sustainable relationships among people. ",
+        "logo": "/image/project/va-ecotour.png",
+        "className" : "reforest"
+      },
+    {
+        "idx": "4",
+        "title": "VitaminWater",
+        "desc": "Capture purified water from air, building water and irrigation systems for abundance and prosperity. ",
+        "logo": "/image/project/va-water.png",
+        "className" : ""
+      },
+      {
+        "idx": "5",
+        "title": "SEED BOMBING",
+        "desc": "combine tradition with ecological science and technology for enhanced productivity. ",
+        "logo": "/image/project/va-seedbombing.png",
+        "className" : "" 
+        }
+]

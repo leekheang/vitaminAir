@@ -1,0 +1,23 @@
+[
+    {   
+        "idx": "1",
+        "title": "WHAT IS VITAMIN AIR?",
+        "desc": "Vitamin Air is a growing community of people actively engaged in social, cultural, ecological and economic regeneration.",
+        "logo": "/image/about/vitamin-air-min.jpg",
+        "className" : "what"
+    },
+    {
+        "idx": "2",
+        "title": "VISION",
+        "desc": "Our vision is to inspire others to rethink their relationship with nature, to learn how to live sustainably therein, and to seek input and guidance for creative new ways to provide benefit to each other and our surroundings. ",
+        "logo": "/image/about/vision-min.jpg" ,
+        "className": "vision"
+      },
+    {
+        "idx": "3",
+        "title": "MISSION",
+        "desc": "Our mission is to work together with the Royal Government of Cambodia to reach and maintain a national forest cover of 60% of total land area and maintain it there for generations ahead. We work to reforest the rainforests, incorporating technology and designs inspired by nature.",
+        "logo": "/image/about/Mission-min.jpg",
+        "className" : "mission"
+      }
+]

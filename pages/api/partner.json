@@ -1,0 +1,32 @@
+[
+    {
+
+        "desc": "SmallWorld helps entrepreneurs test, refine, design startup model, build, and launch fast with small capital by providing a share workspace and a supportin ",
+        "logo": "/image/partner/smallworld.png",
+        "className" : ""
+    },
+    {
+
+        "desc": "together with KOOMPI OS, are value-added learning and productivity tools built upon the acclaimed Linux operating system.",
+        "logo": "/image/partner/koompi.png" ,
+        "className": "koompi"
+      },
+    {
+
+        "desc": "Cambodia is an exciting country with a dynamic youth community eager to play an active role in the digital era ",
+        "logo": "/image/partner/sabay.png",
+        "className" : "sabay-corp"
+      },
+    {
+
+        "desc": "Number 1 manufacturer and distributor of quality coated steel building materials in Cambodi ",
+        "logo": "/image/partner/isi-group.png",
+        "className" : "isi-group"
+      },
+      {
+
+        "desc": "Doers Knowledge Management Group " ,
+        "logo": "/image/partner/doer.png",
+        "className" : "doer" 
+        }
+]

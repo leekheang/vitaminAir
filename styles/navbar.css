@@ -1,0 +1,87 @@
+.hidden-desktop{
+    display: none;
+} 
+.Navbar-header{
+    z-index: 1;
+    margin-top: 2   0px;
+}
+.Navbar-header img {
+    margin-top: -5%;
+    height: 40px;
+    margin-left: 60px;   
+}
+/* .Navbar-menu {
+    margin: 0 20%;
+} */
+.Navbar-menu ul {
+    float: right;
+}
+.Navbar-bgcolor {
+    background: none ;
+}
+.ant-menu-light {
+    background: none;
+}
+
+.Navbar-group {
+    margin-top: 45px;
+}
+
+
+.ant-menu-horizontal a {
+    color: white !important;
+    display: flex;
+    align-items: center;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1.5rem;
+
+}
+
+.btn-discover {
+    width: 118px;
+    height: 20%;
+    color: white;
+    background-color: green;
+    border: none;
+}
+.ant-btn > span {
+    font-size: 1.3em;
+}
+@media only screen and (max-width: 1024px){
+    .ant-menu-item a {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 900px){
+    .Navbar-header img {
+        margin-top: -4%;
+        height: 40px;
+        margin-left: 4px;
+    }
+    .btn-discover{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .Navbar-group {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .Navbar-header img {
+        margin-top: -19%;
+        height: 20px;
+        margin-left: -26px;
+    }
+   .hidden-mobile {
+       display: none;
+   }
+   .hidden-desktop{
+       display: block;
+   }
+   .btn-style{
+       float: right;
+   }
+  }
