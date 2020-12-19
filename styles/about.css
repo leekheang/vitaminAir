@@ -174,10 +174,10 @@
       text-align: center;
    }
    .what {
-    padding-right: 0;
+    padding-right: none;
    }
    .vision {
-    padding-right: 0;
+    padding-right: none;
 }
 .about-member{
   padding-left: 0px !important;

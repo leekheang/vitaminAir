@@ -11,7 +11,7 @@ function Partners() {
                 <img
                     className={`img-partner ${res.className}`}
                     alt={res.desc}
-                    src={`http://localhost:3000${res.logo}`}
+                    src={`${res.logo}`}
                 />
             </Col>
         </>
@@ -21,7 +21,7 @@ return <>
      <div className="container">
          <div className="main-partner"> 
               {/* <h2 className="partnerTitle">
-                <center>STRATEGIC PARTNERS</center>
+                <center>STRATEGIC PARTNERS</center>.img-partner
               </h2> */}
               <center>
                 <h1 className="projectTitle">STRATEGIC PARTNERS</h1>

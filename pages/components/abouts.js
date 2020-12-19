@@ -14,7 +14,7 @@ function abouts() {
                             <img
                                     className="img-about"
                                     alt={res.title}
-                                    src={`http://localhost:3000${res.logo}`}
+                                    src={`${res.logo}`}
                                   />
                         </div>
                       </Col>
@@ -43,7 +43,7 @@ function abouts() {
                           <img
                                   className="img-about"
                                   alt={res.title}
-                                  src={`http://localhost:3000${res.logo}`}
+                                  src={`${res.logo}`}
                                 />
                       </div>
                     </Col>
@@ -65,7 +65,7 @@ function abouts() {
                             <img
                                     className="img-about"
                                     alt={res.title}
-                                    src={`http://localhost:3000${res.logo}`}
+                                    src={`${res.logo}`}
                                   />
                         </div>
                       </Col>
@@ -105,7 +105,7 @@ const Teamember = () => {
                       <img
                             className="img-member"
                             alt={res.name}
-                            src={`http://localhost:3000${res.logo}`}
+                            src={`${res.logo}`}
                                 />
                        <div className="member-team">
                             <h4>{res.name}</h4>
